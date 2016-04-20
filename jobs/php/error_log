@@ -1,0 +1,9 @@
+[25-Jan-2016 08:38:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/yodhaa/public_html/portal/php/connect.php on line 21
+[25-Jan-2016 08:39:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/yodhaa/public_html/portal/php/connect.php on line 21
+[25-Jan-2016 08:39:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/yodhaa/public_html/portal/php/connect.php on line 21
+[25-Jan-2016 08:42:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/yodhaa/public_html/portal/php/connect.php on line 21
+[25-Jan-2016 08:42:52 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/yodhaa/public_html/portal/php/connect.php on line 21
+[27-Jan-2016 11:02:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/portal/php/newUserRegister.php:15) in /home/yodhaa/public_html/portal/php/newUserRegister.php on line 60
+[27-Jan-2016 11:02:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yodhaa/public_html/portal/php/newUserRegister.php:15) in /home/yodhaa/public_html/portal/php/newUserRegister.php on line 41
+[01-Apr-2016 07:24:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/connecte/public_html/jobs/php/connect.php on line 21
+[04-Apr-2016 08:35:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'yodhaa_admin'@'localhost' (using password: YES) in /home/connecte/public_html/jobs/php/connect.php on line 21

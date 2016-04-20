@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person id="28">
+	<experience>
+		<organization>yodhaa</organization>
+		<jobtype>Permanent</jobtype>
+		<organizationName>yodhaa</organizationName>
+		<designation>programmer</designation>
+		<noticeperiod>3</noticeperiod>
+		<fixedctc>10000</fixedctc>
+		<variablectc>100000</variablectc>
+		<joiningdate>2014-09-29</joiningdate>
+	</experience>
+	<primary id="28">
+		<skillName>programming</skillName>
+		<from>2012-09-27</from>
+		<to>2012-08-28</to>
+		<projectName>portal</projectName>
+		<teamSize>2</teamSize>
+		<role>backend</role>
+		<projectDescription>hvdsvj</projectDescription>
+		<companyName>yodhaa</companyName>
+	</primary>
+	<secondary id="28">
+		<skillName>programming</skillName>
+		<from>2013-09-28</from>
+		<to>2012-08-28</to>
+		<projectName>goodscab</projectName>
+		<teamSize>2</teamSize>
+		<role>coder</role>
+		<projectDescription>nmsbdbmf</projectDescription>
+		<companyName>yodhaa</companyName>
+	</secondary>
+	<knowledge id="28">
+		<skillName>php</skillName>
+	</knowledge>
+</person>

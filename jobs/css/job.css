@@ -1,0 +1,28 @@
+
+
+#breadcrumb {
+/* background-color: #073a65; */ /* border-color: #073a65; */ background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4); background-repeat: no-repeat; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe4e4e4', GradientType=0); -webkit-filter: none; filter: none; border: 1px solid rgb(238, 238, 238); text-shadow: 0 1px 0 rgb(238, 238, 238); color: black;margin-top:100px;
+}
+.breadcrumb {
+    list-style: none;
+    background-image: linear-gradient(#ffffff, #F7F7F7 50%, #F1EDED);
+    background-repeat: no-repeat;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe4e4e4', GradientType=0);
+    -webkit-filter: none;
+    filter: none;
+    /* border: 1px solid rgb(238, 238, 238); */
+    text-shadow: 0 1px 0 rgb(238, 238, 238);
+    color: black;
+    border-radius: 0px;
+    padding: 0px 10px;
+}
+.breadcrumb li {
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-weight: 600;
+}
+.input-group-addon {
+    background-color: #eee;
+    border-color: #eee;
+    color: #073a65;
+}

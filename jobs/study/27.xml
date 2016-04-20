@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<study id="27">
+	<group>
+		<education>SSC</education>
+		<specialization>tenth</specialization>
+		<institute>kvm school</institute>
+		<university></university>
+		<from>1995-03-01</from>
+		<to>2009-03-03</to>
+		<aggregate>80</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>inter</specialization>
+		<institute>gauthami junior college</institute>
+		<university></university>
+		<from>2009-04-25</from>
+		<to>2012-04-25</to>
+		<aggregate>44</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>degree</specialization>
+		<institute>royal degree college</institute>
+		<university></university>
+		<from>2012-12-31</from>
+		<to>2015-12-31</to>
+		<aggregate>60</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>hello1</specialization>
+		<institute>checking1</institute>
+		<university></university>
+		<from>2016-12-31</from>
+		<to>2016-12-30</to>
+		<aggregate>check1</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>check2</specialization>
+		<institute>check2</institute>
+		<university></university>
+		<from>2016-12-31</from>
+		<to>2016-12-31</to>
+		<aggregate>check2</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>check3</specialization>
+		<institute>check3</institute>
+		<university></university>
+		<from>2016-12-31</from>
+		<to>2016-12-31</to>
+		<aggregate>check3</aggregate>
+	</group>
+	<group>
+		<education>1</education>
+		<specialization>check4</specialization>
+		<institute>check4</institute>
+		<university></university>
+		<from>2016-12-31</from>
+		<to>2016-12-31</to>
+		<aggregate>check4</aggregate>
+	</group>
+	<certificate>
+		<name>check5</name>
+		<awarded>check5</awarded>
+		<date>2016-12-31</date>
+		<validity>check5</validity>
+	</certificate>
+</study>

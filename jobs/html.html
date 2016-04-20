@@ -1,0 +1,82 @@
+ <html>
+ <head>
+ </head><body><div class="row contact-wrap"> 
+                <div class="status alert alert-success" style="display: none"></div>
+                <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+                    <div class="col-sm-5 col-sm-offset-1">
+						<h4>Create Login Details</h4>
+                        <div class="form-group">
+                            <label>Enter your Email ID *</label>
+                            <input type="email" name="Enter_Email" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Create a Password for your account *</label>
+                            <input type="password" name="Create_Password" class="form-control" required="required">
+                        </div>
+                        <div class="form-group">
+                            <label>Confirm the Password *</label>
+                            <input type="password" name="Confirm_Password" class="form-control" required="required">
+                        </div>
+						<h4>Your Contact Information</h4>
+                        <div class="form-group">
+                            <label>Please mention your Full Name </label>
+                            <input type="text" name="Full_Name" class="form-control">
+                        </div>                        
+                        <div class="form-group">
+                            <label>Date of Birth</label>
+                            <input type="Date" name="Date_Birth"class="form-control">
+                        </div>                        
+                        <div class="form-group">
+                            <label>Phone</label>
+                            <input type="number" class="form-control">
+                        </div>
+						<div class="form-group">
+							<label >Gender  :</label>
+							<label class="radio-inline" for="Gender-0">
+								<input type="radio" name="Gender" id="Gender-0" value="1">Male
+							</label> 
+							<label class="radio-inline" for="Gender-1">
+								<input type="radio" name="Gender" id="Gender-1" value="2">	Female
+							</label>
+						</div>
+                        <div class="form-group">
+                            <label>Nationality </label>
+                            <input type="text" name="Nationality" class="form-control" >
+                        </div>
+                        <div class="form-group">
+                            <label>PAN Card Number</label>
+                            <input type="text" name="PAN_Number" class="form-control" >
+                        </div>
+						<div class="form-group">
+                            <label>Passport Number</label>
+                            <input type="text" name="Passport_Number" class="form-control" >
+                        </div>                        
+                        <div class="form-group">
+                            <label>Passport Expire Date</label>
+                            <input type="Date" name="Passport_Expire_Date"class="form-control">
+                        </div>
+						<div class="form-group">
+                            <label>Current Organization Name</label>
+                            <input type="text" name="Current_Organizaqtion_Name" class="form-control" >
+                        </div>
+						<div class="form-group">
+                            <label>Where are you currently located?* </label>
+                            <input type="text" name="Current_Organizaqtion_Name" class="form-control" >
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                        </div>
+                    </div>
+                </form> 
+            </div><!--/.row-->
+			
+			
+			
+			
+							<div class="form-group">
+								<label class="control-label" for="checkboxes-0">
+									<input type="checkbox" name="c1" onclick="showMe('div1', this)" value="fixed"> I am Fresher
+								</label>
+							</div>
+							</body>
+							</html>

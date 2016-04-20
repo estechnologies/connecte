@@ -1,0 +1,9 @@
+[28-Mar-2016 07:45:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/index.php:240) in /home/connecte/public_html/index.php on line 302
+[28-Mar-2016 07:50:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/index.php:240) in /home/connecte/public_html/index.php on line 298
+[28-Mar-2016 07:55:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/contactback.php:1) in /home/connecte/public_html/contactback.php on line 23
+[28-Mar-2016 07:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/contactback.php:1) in /home/connecte/public_html/contactback.php on line 23
+[28-Mar-2016 08:02:47 UTC] PHP Fatal error:  Cannot redeclare class connect in /home/connecte/public_html/connect.php on line 3
+[28-Mar-2016 08:02:55 UTC] PHP Fatal error:  Cannot redeclare class connect in /home/connecte/public_html/connect.php on line 3
+[04-Apr-2016 05:18:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/index.php:240) in /home/connecte/public_html/index.php on line 299
+[04-Apr-2016 05:19:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/index.php:240) in /home/connecte/public_html/index.php on line 299
+[04-Apr-2016 05:19:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/index.php:240) in /home/connecte/public_html/index.php on line 299

@@ -1,0 +1,40 @@
+.navbar-inverse {
+    /* background-color: #073a65; */
+    /* border-color: #073a65; */
+    background-image: linear-gradient(#ffffff, #eeeeee 50%, #e4e4e4);
+    background-repeat: no-repeat;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe4e4e4', GradientType=0);
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid rgb(238, 238, 238);
+    text-shadow: 0 1px 0 rgb(238, 238, 238);
+    color: black;
+}
+.navbar {
+    border-radius: 0px;
+}
+.headerlinks a{color:black;
+font-size:18px;
+}
+.headerlinks a:hover{color:#073a65;
+font-size:18px;}
+.headerlinks a:active {color:#073a65;
+font-size:18px;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: #eee;
+   color:#073a65;
+font-size:18px;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    font-size:18px;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color:#073a65;
+    white-space: nowrap;
+}
+.dropdown-menu>li>a:hover{ background-color: #073a65;
+color:white}

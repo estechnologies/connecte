@@ -1,0 +1,9 @@
+[01-Apr-2016 05:18:01 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:01 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:01 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:14 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:14 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:14 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:25 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:25 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141
+[01-Apr-2016 05:18:25 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/connecte/public_html/jobs/Recruiter/RecruiterViewPosting.php on line 141

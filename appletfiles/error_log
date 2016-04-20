@@ -1,0 +1,12 @@
+[03-Mar-2016 11:13:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/timer/appletfiles/login.php on line 16
+[03-Mar-2016 11:13:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/yodhaa/public_html/timer/appletfiles/getAwayStatus.php on line 13
+[12-Apr-2016 09:28:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (null) at position 0 (n): The timezone could not be found in the database' in /home/connecte/public_html/appletfiles/updateEmpLogins.php:24
+Stack trace:
+#0 /home/connecte/public_html/appletfiles/updateEmpLogins.php(24): DateTime->__construct('null')
+#1 {main}
+  thrown in /home/connecte/public_html/appletfiles/updateEmpLogins.php on line 24
+[15-Apr-2016 13:27:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (null) at position 0 (n): The timezone could not be found in the database' in /home/connecte/public_html/appletfiles/updateEmpLogins.php:24
+Stack trace:
+#0 /home/connecte/public_html/appletfiles/updateEmpLogins.php(24): DateTime->__construct('null')
+#1 {main}
+  thrown in /home/connecte/public_html/appletfiles/updateEmpLogins.php on line 24

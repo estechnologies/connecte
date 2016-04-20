@@ -1,0 +1,53 @@
+[10-Mar-2016 08:08:38 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/yodhaa/public_html/timer/admin/SuperAdminLoginBack.php on line 4
+[10-Mar-2016 08:08:38 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/yodhaa/public_html/timer/admin/SuperAdminLoginBack.php on line 4
+[10-Mar-2016 08:08:38 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/yodhaa/public_html/timer/admin/SuperAdminLoginBack.php on line 4
+[14-Mar-2016 05:38:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/SuperAdminLoginBack.php on line 23
+[25-Mar-2016 05:04:01 UTC] PHP Parse error:  syntax error, unexpected '$body' (T_VARIABLE) in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 70
+[25-Mar-2016 05:04:59 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 75
+[25-Mar-2016 05:05:23 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 76
+[25-Mar-2016 05:06:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php:51) in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 55
+[25-Mar-2016 05:12:04 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 82
+[25-Mar-2016 05:17:27 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 82
+[25-Mar-2016 05:19:18 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 82
+[25-Mar-2016 05:21:22 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/connecte/public_html/admin/YodhaaAdminCompanyCreateBack.php on line 76
+[28-Mar-2016 06:28:39 UTC] PHP Fatal error:  Call to a member function totalcompanycount() on a non-object in /home/connecte/public_html/admin/Home.php on line 88
+[28-Mar-2016 10:03:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:03:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:03:29 UTC] PHP Fatal error:  Call to undefined function failed() in /home/connecte/public_html/admin/ViewContact.php on line 21
+[28-Mar-2016 10:07:55 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:07:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:07:55 UTC] PHP Fatal error:  Call to undefined function failed() in /home/connecte/public_html/admin/ViewContact.php on line 21
+[28-Mar-2016 10:08:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:08:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/connecte/public_html/admin/ViewContact.php on line 16
+[28-Mar-2016 10:08:07 UTC] PHP Fatal error:  Call to undefined function failed() in /home/connecte/public_html/admin/ViewContact.php on line 21
+[28-Mar-2016 10:16:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 47
+[28-Mar-2016 10:16:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 47
+[28-Mar-2016 10:16:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 47
+[28-Mar-2016 10:19:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/connecte/public_html/admin/ViewContact.php on line 36
+[28-Mar-2016 10:19:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/connecte/public_html/admin/ViewContact.php on line 36
+[28-Mar-2016 10:20:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/connecte/public_html/admin/ViewContact.php on line 36
+[28-Mar-2016 10:21:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/connecte/public_html/admin/ViewContact.php on line 239
+[28-Mar-2016 10:51:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/connecte/public_html/admin/ViewContact.php on line 232
+[28-Mar-2016 10:54:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 239
+[28-Mar-2016 10:54:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 239
+[28-Mar-2016 10:57:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/connecte/public_html/admin/ViewContact.php on line 239
+[28-Mar-2016 11:14:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/admin/ViewContact.php:91) in /home/connecte/public_html/admin/ViewContact.php on line 232
+[28-Mar-2016 11:14:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/admin/ViewContact.php:91) in /home/connecte/public_html/admin/ViewContact.php on line 232
+[28-Mar-2016 11:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/connecte/public_html/admin/ViewContact.php:91) in /home/connecte/public_html/admin/ViewContact.php on line 232
+[06-Apr-2016 13:00:17 UTC] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/connecte/public_html/admin/ViewContact.php on line 314
+[06-Apr-2016 13:01:27 UTC] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/connecte/public_html/admin/ViewContact.php on line 302
+[06-Apr-2016 13:01:30 UTC] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/connecte/public_html/admin/ViewContact.php on line 302
+[11-Apr-2016 06:29:04 UTC] PHP Fatal error:  Cannot redeclare class connect in /home/connecte/public_html/admin/connect.php on line 3
+[11-Apr-2016 06:29:06 UTC] PHP Fatal error:  Cannot redeclare class connect in /home/connecte/public_html/admin/connect.php on line 3
+[11-Apr-2016 06:29:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/Home.php on line 115
+[11-Apr-2016 08:52:08 UTC] PHP Fatal error:  Call to undefined function DateTimeZone() in /home/connecte/public_html/admin/Home.php on line 137
+[12-Apr-2016 07:12:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/Home.php on line 118
+[12-Apr-2016 15:54:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 201
+[12-Apr-2016 15:54:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 270
+[12-Apr-2016 15:56:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 164
+[12-Apr-2016 15:56:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 201
+[12-Apr-2016 15:56:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 204
+[12-Apr-2016 15:56:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 260
+[12-Apr-2016 15:56:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 270
+[13-Apr-2016 04:56:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 201
+[13-Apr-2016 04:56:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/connecte/public_html/admin/ViewCompany.php on line 270

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<person id="">
+	<experience>
+		<organization></organization>
+		<jobtype>Permanent</jobtype>
+		<organizationName></organizationName>
+		<designation></designation>
+		<noticeperiod></noticeperiod>
+		<fixedctc></fixedctc>
+		<variablectc></variablectc>
+		<joiningdate></joiningdate>
+	</experience>
+	<primary id="">
+		<skillName></skillName>
+		<from></from>
+		<to></to>
+		<projectName></projectName>
+		<teamSize></teamSize>
+		<role></role>
+		<projectDescription></projectDescription>
+		<companyName></companyName>
+	</primary>
+	<secondary id="">
+		<skillName></skillName>
+		<from></from>
+		<to></to>
+		<projectName></projectName>
+		<teamSize></teamSize>
+		<role></role>
+		<projectDescription></projectDescription>
+		<companyName></companyName>
+	</secondary>
+	<knowledge id="">
+		<skillName></skillName>
+	</knowledge>
+</person>
